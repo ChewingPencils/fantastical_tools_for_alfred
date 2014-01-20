@@ -1,5 +1,7 @@
 # Fantastical Tools
 
+[Full documentation](http://www.seankorzdorfer.com/open_notebook/fantastical%20tools.html).
+
 ## Usage
 
 ### Create A Calendar Event Without Notes
