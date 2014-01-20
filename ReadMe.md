@@ -52,10 +52,10 @@
 ### Basic Creation Actions
 
 **f** :
-    Create a calendar event (See [Usage][sect-usage]).
+    Create a calendar event.
     
 **ft** :
-    Create a new reminder (See [Usage][sect-usage]).
+    Create a new reminder.
     
 ### Quick Reminders
 
