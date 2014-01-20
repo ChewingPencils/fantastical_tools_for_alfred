@@ -57,11 +57,10 @@
 **ft** :
     Create a new reminder.
 
-    ### Quick Events
+### Quick Events
 
-    **fdst** :
-     
-        Create a calendar event for Daddy / Son Time.
+**fdst** :
+    Create a calendar event for Daddy / Son Time.
 
 ### Quick Reminders
 
